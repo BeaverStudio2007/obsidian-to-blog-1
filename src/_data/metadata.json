@@ -2,7 +2,7 @@
   "title": "Obsidian to blog",
   "url": "https://obsidian.canarit.ru",
   "language": "en",
-  "description": "Блог из заметок Obsidian",
+  "description": "Beaver Studio Presents: Obsidian to blog workflow",
   "feed": {
     "subtitle": "I am writing about my experiences.",
     "filename": "feed.xml",

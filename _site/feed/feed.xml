@@ -5,7 +5,7 @@
 	
 	<link href="https://obsidian.canarit.ru/feed/feed.xml" rel="self"/>
 	<link href="https://obsidian.canarit.ru"/>
-	<updated>2022-01-26T16:07:44Z</updated>
+	<updated>2026-01-01T15:13:25Z</updated>
 	<id>https://obsidian.canarit.ru/</id>
 	<author>
 		<name>Mihail Schwarz</name>
@@ -13,18 +13,18 @@
 	</author>
 	
 	<entry>
-		<title>Тестовая заметка</title>
-		<link href="https://obsidian.canarit.ru/testovaya-zametka/"/>
-		<updated>2022-01-26T16:07:44Z</updated>
-		<id>https://obsidian.canarit.ru/testovaya-zametka/</id>
-		<content type="html">&lt;p&gt;Это тестовая заметка&lt;/p&gt;
+		<title>Oh, the time flies!</title>
+		<link href="https://obsidian.canarit.ru/oh-the-time-flies!/"/>
+		<updated>2026-01-01T15:13:25Z</updated>
+		<id>https://obsidian.canarit.ru/oh-the-time-flies!/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://obsidian.canarit.ru/oh-the-time-flies!/img/Main%20Logo.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title>Как форматировать заметки</title>
 		<link href="https://obsidian.canarit.ru/kak-formatirovat-zametki/"/>
-		<updated>2022-01-26T15:57:27Z</updated>
+		<updated>2026-01-01T15:12:15Z</updated>
 		<id>https://obsidian.canarit.ru/kak-formatirovat-zametki/</id>
 		<content type="html">&lt;h2 id=&quot;nachalo-kazhdoj-zametki&quot; tabindex=&quot;-1&quot;&gt;Начало каждой заметки &lt;a class=&quot;direct-link&quot; href=&quot;https://obsidian.canarit.ru/kak-formatirovat-zametki/#nachalo-kazhdoj-zametki&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Не забудьте добавить YAML в начало:&lt;/p&gt;
@@ -52,7 +52,7 @@ layout: layouts/post.njk
 	<entry>
 		<title>Инструкция по установке</title>
 		<link href="https://obsidian.canarit.ru/instrukciya-po-ustanovke/"/>
-		<updated>2022-01-25T18:00:59Z</updated>
+		<updated>2026-01-01T15:12:10Z</updated>
 		<id>https://obsidian.canarit.ru/instrukciya-po-ustanovke/</id>
 		<content type="html">&lt;h2 id=&quot;obsidian-to-blog&quot; tabindex=&quot;-1&quot;&gt;obsidian-to-blog &lt;a class=&quot;direct-link&quot; href=&quot;https://obsidian.canarit.ru/instrukciya-po-ustanovke/#obsidian-to-blog&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Генератор статического сайта на основе markdown заметок в приложении Obsidian&lt;/p&gt;
@@ -83,6 +83,15 @@ npx eleventy --serve --watch
 &lt;h3 id=&quot;7.-opublikujte-sajt-v-internete&quot; tabindex=&quot;-1&quot;&gt;7. Опубликуйте сайт в интернете &lt;a class=&quot;direct-link&quot; href=&quot;https://obsidian.canarit.ru/instrukciya-po-ustanovke/#7.-opublikujte-sajt-v-internete&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Например, используйте APP в &lt;a href=&quot;https://m.do.co/c/da01223adc8e&quot;&gt;digitalocean&lt;/a&gt;. Создайте беплатное приложение APP, подключите github и свой репозиторий. Выберите папку &amp;quot;_site/&amp;quot; для публикации&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.digitalocean.com/?refcode=da01223adc8e&amp;amp;utm_campaign=Referral_Invite&amp;amp;utm_medium=Referral_Program&amp;amp;utm_source=badge&quot;&gt;&lt;img src=&quot;https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg&quot; alt=&quot;DigitalOcean Referral Badge&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Тестовая заметка</title>
+		<link href="https://obsidian.canarit.ru/testovaya-zametka/"/>
+		<updated>2026-01-01T15:04:24Z</updated>
+		<id>https://obsidian.canarit.ru/testovaya-zametka/</id>
+		<content type="html">&lt;p&gt;Это тестовая заметка&lt;/p&gt;
 </content>
 	</entry>
 </feed>

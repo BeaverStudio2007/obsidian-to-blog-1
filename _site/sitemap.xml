@@ -2,47 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://obsidian.canarit.ru/about-me/</loc>
+    <lastmod>2026-01-01</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obsidian.canarit.ru/posts/</loc>
-    <lastmod>2022-01-19</lastmod>
+    <lastmod>2026-01-01</lastmod>
   </url>
   
   <url>
     <loc>https://obsidian.canarit.ru/</loc>
-    <lastmod>2022-01-19</lastmod>
+    <lastmod>2026-01-01</lastmod>
   </url>
   
   <url>
     <loc>https://obsidian.canarit.ru/page-list/</loc>
-    <lastmod>2022-01-19</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://obsidian.canarit.ru/tags/</loc>
-    <lastmod>2022-01-19</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://obsidian.canarit.ru/tags/obsidian/</loc>
-    <lastmod>2022-01-19</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://obsidian.canarit.ru/about-me/</loc>
-    <lastmod>2022-01-25</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://obsidian.canarit.ru/instrukciya-po-ustanovke/</loc>
-    <lastmod>2022-01-25</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://obsidian.canarit.ru/kak-formatirovat-zametki/</loc>
-    <lastmod>2022-01-26</lastmod>
+    <lastmod>2026-01-01</lastmod>
   </url>
   
   <url>
     <loc>https://obsidian.canarit.ru/testovaya-zametka/</loc>
-    <lastmod>2022-01-26</lastmod>
+    <lastmod>2026-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obsidian.canarit.ru/tags/</loc>
+    <lastmod>2026-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obsidian.canarit.ru/tags/obsidian/</loc>
+    <lastmod>2026-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obsidian.canarit.ru/instrukciya-po-ustanovke/</loc>
+    <lastmod>2026-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obsidian.canarit.ru/kak-formatirovat-zametki/</loc>
+    <lastmod>2026-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obsidian.canarit.ru/oh-the-time-flies!/</loc>
+    <lastmod>2026-01-01</lastmod>
   </url>
 </urlset>
