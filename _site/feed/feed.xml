@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<title>Obsidian to blog</title>
+	<title>Beaver Studio. Motion &amp; Sound Design</title>
 	<subtitle>I am writing about my experiences.</subtitle>
 	
 	<link href="https://obsidian.canarit.ru/feed/feed.xml" rel="self"/>
 	<link href="https://obsidian.canarit.ru"/>
-	<updated>2026-01-02T09:42:43Z</updated>
+	<updated>2026-01-02T11:55:09Z</updated>
 	<id>https://obsidian.canarit.ru/</id>
 	<author>
 		<name>Borys Popov</name>
@@ -15,9 +15,10 @@
 	<entry>
 		<title>Oh, the time flies!</title>
 		<link href="https://obsidian.canarit.ru/oh-the-time-flies!/"/>
-		<updated>2026-01-02T09:42:43Z</updated>
+		<updated>2026-01-02T11:55:09Z</updated>
 		<id>https://obsidian.canarit.ru/oh-the-time-flies!/</id>
-		<content type="html">&lt;p&gt;&lt;img src=&quot;https://obsidian.canarit.ru/oh-the-time-flies!/img/Main%20Logo.png&quot; alt=&quot;&quot; /&gt;OK, Beaver Studio Presents.&lt;/p&gt;
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://obsidian.canarit.ru/oh-the-time-flies!/img/Main%20Logo.png&quot; alt=&quot;&quot; /&gt;OK, Beaver Studio Presents.&lt;br /&gt;
+&lt;img src=&quot;https://obsidian.canarit.ru/oh-the-time-flies!/img/Submark.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </content>
 	</entry>
 </feed>
