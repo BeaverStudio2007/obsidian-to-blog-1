@@ -12,7 +12,7 @@ module.exports = function(eleventyConfig) {
 
   // Passthrough files
   const files = [
-    'src/favicon.ico',
+    'src/Submark.ico',
     // Добавляй сюда другие файлы/папки
   ];
   files.forEach(file => eleventyConfig.addPassthroughCopy(file));
