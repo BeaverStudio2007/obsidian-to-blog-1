@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beaver Studio Presents.md",
+                "file": "Инструкция по установке.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Beaver Studio Presents"
+              "title": "Инструкция по установке"
             }
           },
           {
@@ -154,10 +154,10 @@
   },
   "active": "a37232e4def13195",
   "lastOpenFiles": [
-    "Инструкция по установке.md",
     "Как форматировать заметки.md",
-    "Тестовая заметка.md",
+    "Инструкция по установке.md",
     "Beaver Studio Presents.md",
+    "Тестовая заметка.md",
     "img/Main Logo.png"
   ]
 }
