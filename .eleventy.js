@@ -10,12 +10,20 @@ const Image = require('@11ty/eleventy-img');
 
 module.exports = function(eleventyConfig) {
 
-  // Passthrough files
   const files = [
-    'src/favicon.ico',
-    // Добавляй сюда другие файлы/папки
-  ];
-  files.forEach(file => eleventyConfig.addPassthroughCopy(file));
+  'src/favicon.ico',
+  'src/Submark.ico',
+  // другие иконки, если есть
+];
+
+files.forEach(file => {
+  const fs = require('fs');
+  if (fs.existsSync(file)) {
+    eleventyConfig.addPassthroughCopy(file);
+  } else {
+    console.warn(`⚠️ Файл ${file} не найден, пропускаем.`);
+  }
+});
 
   // Plugins
   eleventyConfig.addPlugin(pluginRss);
