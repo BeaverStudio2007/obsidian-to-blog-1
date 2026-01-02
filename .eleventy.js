@@ -15,7 +15,7 @@ module.exports = function(eleventyConfig) {
   const files = [
    // 'src/fonts',
     'src/css',
-    'src/favicon.ico'
+    'src/Submark.ico'
     //'src/apple-touch-1.png'
   ];
   files.forEach((file) => eleventyConfig.addPassthroughCopy(file));
