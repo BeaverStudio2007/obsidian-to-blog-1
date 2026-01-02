@@ -13,10 +13,6 @@ module.exports = function(eleventyConfig) {
   // Passthrough files
   const files = [
     'src/favicon.ico',
-    'src/admin/config.yml',
-    'src/posts/img/**/*',
-    'src/assets/css/*',
-    'src/assets/js/*',
     // Добавляй сюда другие файлы/папки
   ];
   files.forEach(file => eleventyConfig.addPassthroughCopy(file));
