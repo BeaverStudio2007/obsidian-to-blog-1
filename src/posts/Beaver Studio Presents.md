@@ -5,4 +5,4 @@ tags:
   - obsidian
 layout: layouts/post.njk
 ---
-![](img/Main%20Logo.png)
+![](img/Main%20Logo.png)OK, Beaver Studio Presents.

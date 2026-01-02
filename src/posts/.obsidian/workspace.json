@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Инструкция по установке.md",
+                "file": "Beaver Studio Presents.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Инструкция по установке"
+              "title": "Beaver Studio Presents"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Beaver Studio Presents"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beaver Studio Presents.md",
+                "file": "Инструкция по установке.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Beaver Studio Presents"
+              "title": "Обратные ссылки для Инструкция по установке"
             }
           },
           {
@@ -153,11 +152,12 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "7696271dd9da8022",
+  "active": "a37232e4def13195",
   "lastOpenFiles": [
-    "img/Main Logo.png",
-    "Как форматировать заметки.md",
     "Инструкция по установке.md",
-    "Beaver Studio Presents.md"
+    "Как форматировать заметки.md",
+    "Тестовая заметка.md",
+    "Beaver Studio Presents.md",
+    "img/Main Logo.png"
   ]
 }
