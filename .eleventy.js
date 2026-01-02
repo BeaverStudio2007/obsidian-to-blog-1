@@ -17,7 +17,7 @@ module.exports = function(eleventyConfig) {
     'src/Submark.ico'
     //'src/apple-touch-1.png'
   ];
-  files.forEach((file) => eleventyConfig.addPassthroughCopy(file));
+  files.forEach((file) => eleventyConfig.addPassthroughCopy(/Submark.ico));
 
 
 
