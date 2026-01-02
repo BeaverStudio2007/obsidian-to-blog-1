@@ -12,7 +12,12 @@ const Image = require('@11ty/eleventy-img');
 
 module.exports = function(eleventyConfig) {
 
-  eleventyConfig.addPassthroughCopy("src/favicon.ico");
+  const files = [
+   // 'src/fonts',
+    'src/Submark.ico'
+    //'src/apple-touch-1.png'
+  ];
+  files.forEach((file) => eleventyConfig.addPassthroughCopy(file));
 
 
 
