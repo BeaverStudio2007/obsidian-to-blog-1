@@ -253,3 +253,6 @@ a[href].direct-link:focus:visited,
 :hover > a[href].direct-link:visited {
   color: #aaa;
 }
+h1 {
+  font-family: "Clone Rounded" !important;
+}
