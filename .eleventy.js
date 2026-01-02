@@ -16,6 +16,7 @@ module.exports = function(eleventyConfig) {
     // Добавляй сюда другие файлы/папки
   ];
   files.forEach(file => eleventyConfig.addPassthroughCopy(file));
+  eleventyConfig.addPassthroughCopy("src/fonts");
 
   // Plugins
   eleventyConfig.addPlugin(pluginRss);
