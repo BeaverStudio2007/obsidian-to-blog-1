@@ -16,12 +16,15 @@ module.exports = function(eleventyConfig) {
     // Добавляй сюда другие файлы/папки
   ];
   files.forEach(file => eleventyConfig.addPassthroughCopy(file));
-  eleventyConfig.addPassthroughCopy("/fonts");
+  eleventyConfig.addPassthroughCopy("src/fonts");
+  eleventyConfig.addPassthroughCopy("src/posts/img");
+  
 
   // Plugins
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginSyntaxHighlight);
   eleventyConfig.addPlugin(pluginNavigation);
+ 
 
   // Lazy images transform
   function lazyImages(eleventyConfig, userOptions = {}) {
