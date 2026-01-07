@@ -6,7 +6,14 @@
   --navy: #17050F;
   --blue: #082840;
   --white: #fff;
-  --orange: #ae4F17;
+  --orange: #AE4E0D
+}
+@font-face {
+  font-family: "Clone Rounded";
+  src: url("/fonts/CLONE-ROUNDED-LATN-ME-RG.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
 }
 /* Global stylesheet */
 * {
@@ -47,13 +54,7 @@ a[href]:visited {
 main {
   padding: 1rem;
 
-
-}
-
-pre,
-code {
-  font-family: Consolas, Menlo, Monaco, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", "Courier New", Courier, monospace;
-  line-height: 1.5;
+  
 }
 
 main :first-child {
