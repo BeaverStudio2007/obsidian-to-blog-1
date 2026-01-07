@@ -10,8 +10,8 @@
 }
 @font-face {
   font-family: "MyFont";
-  src: url("/fonts/CLONE-ROUNDED-LATN-ME-RG") format("woff2");
-  src: url("/fonts/CLONE-ROUNDED-LATN-ME-RG") format("woff");
+  src: url("/fonts/CLONE-ROUNDED-LATN-ME-RG.woff2") format("woff2");
+  src: url("/fonts/CLONE-ROUNDED-LATN-ME-RG.woff") format("woff");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -26,8 +26,8 @@ body {
   padding: 0;
   margin: auto;
   font-family: "Clone Rounded", system-ui, sans-serif;
-  src: url("/fonts/comicbd.woff2") format("woff2"),
-       url("/fonts/comicbd.woff") format("woff");
+  src: url("/fonts/CLONE-ROUNDED-LATN-ME-RG.woff2") format("woff2"),
+       url("/fonts/CLONE-ROUNDED-LATN-ME-RG.woff") format("woff");
   color: var(--darkgray);
   background-color: var(--white);
   max-width: 800px;
@@ -76,7 +76,6 @@ table th {
 
 pre,
 code {
-  font-family: Consolas, Menlo, Monaco, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", "Courier New", Courier, monospace;
   line-height: 1.5;
 }
 pre {
