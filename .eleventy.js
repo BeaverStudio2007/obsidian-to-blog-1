@@ -16,7 +16,7 @@ module.exports = function(eleventyConfig) {
     // Добавляй сюда другие файлы/папки
   ];
   files.forEach(file => eleventyConfig.addPassthroughCopy(file));
-  eleventyConfig.addPassthroughCopy("obsidian-to-blog/src/fonts");
+  eleventyConfig.addPassthroughCopy("/fonts");
 
   // Plugins
   eleventyConfig.addPlugin(pluginRss);
