@@ -17,7 +17,7 @@ html,
 body {
   padding: 0;
   margin: auto;
-  font-family: "Clone Rounded";
+  font-family: "Clone Rounded", system-ui, sans-serif;
   src: url("/fonts/CLONE-ROUNDED-LATN-ME-RG.woff2") format("woff2"),
   color: var(--darkgray);
 }
