@@ -53,7 +53,16 @@ a[href]:visited {
 }
 main {
   padding: 1rem;
+
+
 }
+
+pre,
+code {
+  font-family: Consolas, Menlo, Monaco, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", "Courier New", Courier, monospace;
+  line-height: 1.5;
+}
+
 main :first-child {
   margin-top: 0;
 }
