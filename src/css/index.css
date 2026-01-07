@@ -15,12 +15,11 @@
 
 html,
 body {
-  padding: 0;
-  margin: auto;
-  font-family: -apple-system, system-ui, sans-serif;
-  color: var(--darkgray);
-  background-color: var(--white);
-  max-width: 800px;
+  font-family: "Clone Rounded", system-ui, sans-serif;
+  src: url("/fonts/CLONE-ROUNDED-LATN-ME-RG.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
 }
 p:last-child {
   margin-bottom: 0;
@@ -64,11 +63,6 @@ table th {
   padding-right: 1em;
 }
 
-pre,
-code {
-  font-family: Consolas, Menlo, Monaco, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", "Courier New", Courier, monospace;
-  line-height: 1.5;
-}
 pre {
   font-size: 14px;
   line-height: 1.375;
