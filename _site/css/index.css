@@ -6,7 +6,7 @@
   --navy: #17050F;
   --blue: #082840;
   --white: #fff;
-  --orange: #ae4f17;
+  --orange: #ae4F17;
 }
 /* Global stylesheet */
 * {
@@ -18,7 +18,7 @@ body {
   padding: 0;
   margin: auto;
   font-family: "Clone Rounded", system-ui, sans-serif;
-  src: url("/fonts/CLONE-ROUNDED-LATN-ME-RG.woff2") format("woff2");
+  src: url("/fonts/CLONE-ROUNDED-LATN-ME-RG.woff2") format("woff2"),
 
   color: var(--darkgray);
   background-color: var(--white);
