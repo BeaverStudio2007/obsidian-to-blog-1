@@ -13,6 +13,8 @@ module.exports = function(eleventyConfig) {
   // Passthrough files
   const files = [
     'src/Submark.ico',
+    'fonts/CLONE-ROUNDED-LATN-ME-RG.woff2',
+    'fonts/CLONE-ROUNDED-LATN-ME-RG.woff',
     // Добавляй сюда другие файлы/папки
   ];
   files.forEach(file => eleventyConfig.addPassthroughCopy(file));
