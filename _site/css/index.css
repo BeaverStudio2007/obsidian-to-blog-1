@@ -19,8 +19,8 @@ body {
   padding: 0;
   margin: auto;
   font-family: "Clone Rounded", system-ui, sans-serif;
-  src: url("/fonts/CLONE-ROUNDED-LATN-ME-RG.woff2") format("woff2"),
-       url("/fonts/CLONE-ROUNDED-LATN-ME-RG.woff") format("woff");
+  src: url("/fonts/comicbd.woff2") format("woff2"),
+       url("/fonts/comicbd.woff") format("woff");
   color: var(--darkgray);
   background-color: var(--white);
   max-width: 800px;
