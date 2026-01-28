@@ -29,7 +29,7 @@ body {
   src: url("/fonts/CLONE-ROUNDED-LATN-ME-RG.woff2") format("woff2"),
 
   color: var(--darkgray);
-  background-color: var(--white);
+  background-color: var(--bakedmilk);
   max-width: 800px;
 }
 p:last-child {
