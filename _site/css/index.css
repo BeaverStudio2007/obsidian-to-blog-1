@@ -1,12 +1,13 @@
 /* Colors */
 :root {
   --lightgray: #e0e0e0;
-  --gray: #C0C0C0;
-  --darkgray: #333;
-  --navy: #17050F;
-  --blue: #082840;
+  --gray: #5B5853;
+  --purple: #464473;
   --white: #fff;
-  --orange: #AE4E0D
+  --orange: #AE4E0D;
+  --bakedmilk: #F4DED3;
+  --center: #F9F2BE;
+  --edge: #CC8E45;
 }
 @font-face {
   font-family: "Clone Rounded";
