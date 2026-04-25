@@ -1,20 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
-  "title": "Beaver Studio. Motion &amp; Sound Design",
+  "title": "Boris at CMS - Camera, Motion, Sound",
   "language": "nl-NL",
   "home_page_url": "https://obsidian.canarit.ru",
   "feed_url": "https://obsidian.canarit.ru/feed/feed.json",
-  "description": "Beaver Studio Presents: Obsidian to blog workflow",
+  "description": "Boris at CMS - Camera, Motion, Sound",
   "author": {
     "name": "Borys Popov",
     "url": "https://obsidian.canarit.ru/about-me/"
   },
   "items": [{
-      "id": "https://obsidian.canarit.ru/oh-the-time-flies!/",
-      "url": "https://obsidian.canarit.ru/oh-the-time-flies!/",
-      "title": "Oh, the time flies!",
-      "content_html": "<p><img src=\"https://obsidian.canarit.ru/oh-the-time-flies!/img/Main%20Logo.png\" alt=\"\" />OK, Beaver Studio Presents.<br />\n<img src=\"https://obsidian.canarit.ru/oh-the-time-flies!/img/Submark.png\" alt=\"\" /></p>\n",
-      "date_published": "2026-01-02T11:55:09Z"
+      "id": "https://obsidian.canarit.ru/what-i-can-consistently-deliver/",
+      "url": "https://obsidian.canarit.ru/what-i-can-consistently-deliver/",
+      "title": "What I can consistently deliver",
+      "content_html": "<p>After receiving some feedbacks, I started presenting my work more realistically, focusing on consistency rather than only showcasing my best pieces.</p>\n<p>2022<br />\n2023<br />\n2024<br />\n2025<br />\n2026</p>\n",
+      "date_published": "2026-04-25T19:43:36Z"
     }
   ]
 }

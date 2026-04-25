@@ -1,10 +1,10 @@
 {
-  "title": "Beaver Studio. Motion & Sound Design",
+  "title": "Boris at CMS - Camera, Motion, Sound",
   "url": "https://obsidian.canarit.ru",
   "language": "nl-NL",
-  "description": "Beaver Studio Presents: Obsidian to blog workflow",
+  "description": "Boris at CMS - Camera, Motion, Sound",
   "feed": {
-    "subtitle": "I am writing about my experiences.",
+    "subtitle": "Het gemiddelde resultaat bij elk jaar",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://obsidian.canarit.ru/"

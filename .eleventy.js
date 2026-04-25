@@ -13,10 +13,12 @@ module.exports = function(eleventyConfig) {
   // Passthrough files
   const files = [
     'src/Submark.ico',
-    'fonts/CLONE-ROUNDED-LATN-ME-RG.woff2',
+    // Строку со шрифтом отсюда удалили, чтобы не было конфликта
     // Добавляй сюда другие файлы/папки
   ];
   files.forEach(file => eleventyConfig.addPassthroughCopy(file));
+  
+  // Эта команда сама скопирует ВСЕ шрифты (включая CLONE-ROUNDED), которые лежат в папке src/fonts
   eleventyConfig.addPassthroughCopy("src/fonts");
   eleventyConfig.addPassthroughCopy("src/posts/img");
   
